@@ -1,4 +1,4 @@
-pset2-scrabble
+# pset2-scrabble
 <strong>NOTE</strong>: Copying this data and using it for your submission will breach the academic honesty policy of CS50. Please ensure you learn the material and solve the problem on your own—it's worth it!
 
 <p>This is my solution to the CS50 "Scrabble" problem set, implemented in C. You can find the full problem description <a href="https://cs50.harvard.edu/x/2024/psets/2/scrabble/">here</a>.</p>
